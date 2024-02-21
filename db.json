@@ -32,7 +32,7 @@
 		{
 			"name": "bgColor",
 			"label": "Background Color",
-			"inputType": "checkbox",
+			"inputType": "color",
 			"default": "#FFFFFF"
 		},
 		{

@@ -5,6 +5,7 @@
 			"name": "presetName",
 			"label": "Preset Name",
 			"inputType": "select",
+			"values": ["None", "Ozon", "Wildberryes", "Детский мир"],
 			"default": "None"
 		},
 		{

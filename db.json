@@ -27,7 +27,7 @@
 			"name": "transparentBG",
 			"label": "Transparent Background",
 			"inputType": "checkbox",
-			"default": 1
+			"default": true
 		},
 		{
 			"name": "bgColor",
@@ -46,7 +46,7 @@
 			"name": "nameByBarcode",
 			"label": "Name By Barcode",
 			"inputType": "checkbox",
-			"default": 0
+			"default": false
 		}
 	],
 	"presets": [

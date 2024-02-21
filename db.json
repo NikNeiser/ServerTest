@@ -47,6 +47,12 @@
 			"label": "Name By Barcode",
 			"inputType": "checkbox",
 			"default": false
+		},
+		{
+			"name": "Lololo",
+			"label": "Lololo",
+			"inputType": "text",
+			"default": "Hello"
 		}
 	],
 	"presets": [

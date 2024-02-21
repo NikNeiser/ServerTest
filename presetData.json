@@ -1,0 +1,78 @@
+{
+	"formSchema": [
+		{
+			"name": "presetName",
+			"label": "Preset Name",
+			"inputType": "select",
+			"default": "None"
+		},
+		{
+			"name": "width",
+			"label": "Width(px)",
+			"inputType": "number"
+		},
+		{
+			"name": "height",
+			"label": "Height(px)",
+			"inputType": "number"
+		},
+		{
+			"name": "padding",
+			"label": "Padding(px)",
+			"inputType": "number"
+		},
+		{
+			"name": "transparentBG",
+			"label": "Transparent Background",
+			"inputType": "checkbox",
+			"default": 1
+		},
+		{
+			"name": "bgColor",
+			"label": "Background Color",
+			"inputType": "checkbox",
+			"default": "#FFFFFF"
+		},
+		{
+			"name": "extension",
+			"label": "Image Extantion",
+			"inputType": "select",
+			"values": [".jpg", ".png", ".webp"],
+			"default": ".png"
+		},
+		{
+			"name": "nameByBarcode",
+			"label": "Name By Barcode",
+			"inputType": "checkbox",
+			"default": 0
+		}
+	],
+	"presets": [
+		{
+			"presetName": "Ozon",
+			"width": 1200,
+			"height": 1600,
+			"padding": 0,
+			"transparentBG": 1,
+			"extension": ".png"
+		},
+		{
+			"presetName": "Wildberryes",
+			"width": 1200,
+			"height": 1600,
+			"padding": 0,
+			"transparentBG": 0,
+			"bgColor": "#FFF",
+			"extension": ".jpg"
+		},
+		{
+			"presetName": "Детский мир",
+			"width": 1000,
+			"height": 1000,
+			"padding": 5,
+			"transparentBG": 0,
+			"bgColor": "#FFF",
+			"extension": ".jpg"
+		}
+	]
+}

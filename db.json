@@ -47,12 +47,6 @@
 			"label": "Name By Barcode",
 			"inputType": "checkbox",
 			"default": false
-		},
-		{
-			"name": "Lololo",
-			"label": "Lololo",
-			"inputType": "text",
-			"default": "Hello"
 		}
 	],
 	"presets": [
@@ -61,7 +55,8 @@
 			"width": 1200,
 			"height": 1600,
 			"padding": 0,
-			"transparentBG": 1,
+			"transparentBG": 1,			
+			"bgColor": "#000000",
 			"extension": ".png"
 		},
 		{
@@ -70,7 +65,7 @@
 			"height": 1600,
 			"padding": 0,
 			"transparentBG": 0,
-			"bgColor": "#FFF",
+			"bgColor": "#FFFFFF",
 			"extension": ".jpg"
 		},
 		{
@@ -79,7 +74,7 @@
 			"height": 1000,
 			"padding": 5,
 			"transparentBG": 0,
-			"bgColor": "#FFF",
+			"bgColor": "#FFFFFF",
 			"extension": ".jpg"
 		}
 	]

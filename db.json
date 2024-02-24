@@ -9,6 +9,11 @@
 			"default": "None"
 		},
 		{
+			"name": "padding",
+			"label": "Padding(px)",
+			"inputType": "number"
+		},
+		{
 			"name": "width",
 			"label": "Width(px)",
 			"inputType": "number"
@@ -16,11 +21,6 @@
 		{
 			"name": "height",
 			"label": "Height(px)",
-			"inputType": "number"
-		},
-		{
-			"name": "padding",
-			"label": "Padding(px)",
 			"inputType": "number"
 		},
 		{
@@ -43,9 +43,10 @@
 			"default": ".png"
 		},
 		{
-			"name": "nameByBarcode",
-			"label": "Name By Barcode",
-			"inputType": "checkbox",
+			"name": "nameType",
+			"label": "Name type",
+			"inputType": "select",
+			"values": ["by Product", "by ID", "by barcode"],
 			"default": false
 		}
 	],

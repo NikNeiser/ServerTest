@@ -37,7 +37,7 @@
 		},
 		{
 			"name": "extension",
-			"label": "Image Extantion",
+			"label": "Image Extension",
 			"inputType": "select",
 			"values": [".jpg", ".png", ".webp"],
 			"default": ".png"

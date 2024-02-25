@@ -79,6 +79,69 @@
 			"extension": ".jpg"
 		}
 	]
-}
+},
+	albums:[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "quidem molestiae enim",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "sunt qui excepturi placeat culpa",
+    "thumbnailUrl": "https://via.placeholder.com/150/8e973b"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "omnis laborum odio",
+    "thumbnailUrl": "https://via.placeholder.com/150/e743b"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "non esse culpa molestiae omnis sed optio",
+    "thumbnailUrl": "https://via.placeholder.com/150/1d2ad4"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "eaque aut omnis a",
+    "thumbnailUrl": "https://via.placeholder.com/150/250289"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "natus impedit quibusdam illo est",
+    "thumbnailUrl": "https://via.placeholder.com/150/afc5c2"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "quibusdam autem aliquid et et quia",
+    "thumbnailUrl": "https://via.placeholder.com/150/92ce9a"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "qui fuga est a eum",
+    "thumbnailUrl": "https://via.placeholder.com/150/9ae7cb"
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "saepe unde necessitatibus rem",
+    "thumbnailUrl": "https://via.placeholder.com/150/9f134c"
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "distinctio laborum qui",
+    "thumbnailUrl": "https://via.placeholder.com/150/5e912a"
+  }
+]
+	
 
 }
